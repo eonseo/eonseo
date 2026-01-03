@@ -3,6 +3,17 @@
 백엔드 개발을 중심으로 서버 구조와 데이터 흐름에 관심을 가지고 학습하고 있습니다.<br>
 Java와 Spring 기반으로 인증·API 개발을 경험하며, 설계 의도를 기록하고 회고를 통해 코드를 지속적으로 개선하고 있습니다.
 
+## Contact
+
+<div>
+  <a href="https://velog.io/@kyodong_han/posts">
+    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
+  </a>
+  <a href="mailto:vkvnxn15@naver.com">
+    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
+</div>
+
 ## Tech Stack
 
 | Category | Stack |
